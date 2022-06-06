@@ -54,10 +54,10 @@ These 3 components and imagery do not reflect the style or brand of any one vend
                 - https://www.google.com/search?q=drone&tbm=vid
             - B.1.d Google Trends: Web Search
                 - https://trends.google.com/trends/explore?date=all&q=elephant,drone
-                - ![drone 144x144](./images/google-trends-web.png)
+                - ![drone 144x144](./images/google-trends-web.PNG)
             - B.1.2 Google Trends: Image Search
                 - https://trends.google.com/trends/explore?date=all_2008&gprop=images&q=elephant,drone
-                - ![drone 144x144](./images/google-trends-image.png)
+                - ![drone 144x144](./images/google-trends-image.PNG)
         - 2. Multiple usages
             - To "drone-on". e.g, "this lecture: 👩‍🏫 'drone-emoji' 'drone-emoji' 'drone-emoji'
                 - "this professor drones on"
