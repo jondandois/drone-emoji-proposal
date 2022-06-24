@@ -96,7 +96,6 @@ These 3 components and imagery do not reflect the style or brand of any one vend
 5. Selection factors -- Exclusion
     - Petitions or "frequent requests"
         - The authors are aware of previous drone emoji proposal requests from 2018-2020, https://unicode.org/emoji/emoji-requests.html and the efforts of "DroneUp" to submit a proposal: https://www.droneup.com/2020/07/17/the-world-needs-a-drone-emoji, https://www.change.org/p/unicode-consortium-add-a-drone-emoji-to-the-unicode-consortium-e9b31d21-e1a4-48bd-bd90-b4402d00e54f
-        - The author is not affiliated with those efforts. 
     - Overly specific
         - Our proposed drone emoji graphic is designed to be generic, capturing the broadest possible concepts of a drone device.
     - Open-ended
