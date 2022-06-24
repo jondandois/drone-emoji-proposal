@@ -8,3 +8,7 @@ space for preparing proposal for a drone unicode emoji
 
 ## Draft Proposal
 refer to the draft here: [PROPOSAL.md](./PROPOSAL.md)
+
+
+### PDF
+PDF sample generated in Visual Studio Code using the [Markdown PDF extension by yzane](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
