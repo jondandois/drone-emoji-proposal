@@ -1,6 +1,6 @@
 # DRONE
 
-![drone 144x144](./images/drone-2/drone-2_72x72.png)
+![drone 72x72](./images/drone-2/drone-2_72x72.png)
 
 ## Title
 Proposal for Emoji: DRONE
