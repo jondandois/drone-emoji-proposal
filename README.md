@@ -9,6 +9,6 @@ space for preparing proposal for a drone unicode emoji
 - Drones are everywhere. Whether you love them or hate them, we think its time for a drone emoji as part of the standard Unicode emoji library, available across all vendors / encoders (different OS and platforms). 
 - This repo is a resource for preparing the proposal
 
-## Draft Proposal
-refer to the draft here: [PROPOSAL.md](./PROPOSAL.md)
+## Submitted!!!!
+View the submitted proposal here: [drone-emoji-proposal.pdf](./submittal/drone-emoji-proposal.pdf)
 
